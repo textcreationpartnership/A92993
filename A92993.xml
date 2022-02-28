@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall particulars shewing the many great conveniences of receiving the imposition or excise at the Custome-house, by way of impost, upon all goods and merchandize imported.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92993</idno>
+            <idno type="STC">Wing S2793</idno>
+            <idno type="STC">Thomason 669.f.15[8]</idno>
+            <idno type="STC">ESTC R211172</idno>
+            <idno type="EEBO-CITATION">99869904</idno>
+            <idno type="PROQUEST">99869904</idno>
+            <idno type="VID">163083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163083)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall particulars shewing the many great conveniences of receiving the imposition or excise at the Custome-house, by way of impost, upon all goods and merchandize imported.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 25. 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Excise tax --  England --  Early works to 1800.</term>
+               <term>Customs administration --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:163083:1" rendition="simple:additions"/>
+            <head>Severall particulars ſhewing the many great Conveniences or receiving the Impoſition or Exciſe at the Cuſtome-houſe, by way of Impoſt, upon all Goods and Merchandize imported.</head>
+            <div n="1" type="section">
+               <head>I. In reference to the State.</head>
+               <p n="1">1. <seg rend="decorInit">T</seg>He intricate and uncertain Accounts now made with Merch<g ref="char:EOLhyphen"/>ants and Tradeſmen, pretended by Shrinkage, Leakage, and decaying of Goods, in the way the Exciſe is now in, will be prevented; as alſo the adventures that are runne, and loſſes often made by the obſcurity of perſons, and the difficulty of finding their Goods, when once paſſed the Cuſtome-houſe, to<g ref="char:EOLhyphen"/>gether with the length of time before ſale, untill which Exciſe cannot be demand<g ref="char:EOLhyphen"/>ed, all which as it now ſtands, can no wayes be remedied.</p>
+               <p n="2">2. The ſettling of that Revenue by way of Impoſt, ſo long as the neceſſity of the Commonwealth ſhall require, is more agreeable to the minds of the people, then by that diſtaſtfull name of Exciſe.</p>
+               <p n="3">3. The Revenue would be more punctually received with the ſame hands, and at the ſame charge, the Cuſtomes uſually are, and that vaſt charge of many thou<g ref="char:EOLhyphen"/>ſands <hi>per annum</hi> now paid to the ſeverall Officers of the Exciſe, ſpared.</p>
+               <p n="4">4. The many Exorbitances, and arbitrary proceedings committed and practi<g ref="char:EOLhyphen"/>ſed by the ſeverall Officers imployed in that ſervice, which hath not a little refle<g ref="char:EOLhyphen"/>cted upon the Parliament, to the great grief and unjuſt vexations both of Merch<g ref="char:EOLhyphen"/>ants and Tradeſmen, would be wholly taken away, <hi>viz. The stopping and de<g ref="char:EOLhyphen"/>taining of their Goods, after duty paid, upon ſlender ſurmiſes, and frivolouss in<g ref="char:EOLhyphen"/>formations; Their often waitng and attending before they could have any re<g ref="char:EOLhyphen"/>dreſſe; the ſearching of their houſes, waiting in their ſhops, and no recompence given to any who have had their goods ſo ſeized, and detained, though nothing hath been made good againſt them; By all which, the Ancient and moſt received Rights of the people, have not a little been infringed.</hi>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>II. In reference to Merchants.</head>
+               <p n="1">1. THereby they will be at liberty to remove, ſell, or barter their goods or any part of them, at all times and ſeaſons as they pleaſe, which now they can<g ref="char:EOLhyphen"/>not do.</p>
+               <p n="2">2. When the Rates ſhall be ſettled, and time of payment fixed at the Cuſtome-houſe, it will be the onely means to prevent all thoſe miſcarriages and inconve<g ref="char:EOLhyphen"/>niences that happen both to Merchants and Tradeſmen, after goods are there cleared.</p>
+            </div>
+            <div n="3" type="section">
+               <head>III. In reference to Inland Traders.</head>
+               <p n="1">1. INland Traders will be free from Officers, tickets, fines, penalties, and the like, as before is expreſſed.</p>
+               <p n="2">2. They would alſo be at liberty after duty paid, to diſpoſe of their Goods at all times and ſeaſons, as their occaſions ſhall require, which now they cannot do, the want of which is much prejudiciall, burthenſome, and very vexatious, to all Tradeſmen, to their great diſcouragement and loſſe of Trade.</p>
+               <p n="3">3. Hereby will be prevented that great and intolerable evil, and ruining, both to Merchants and Tradeſmen, which they groan under, by reaſon that the Offi<g ref="char:EOLhyphen"/>cers of the Exciſe, under pretences, and upon occaſion, do make a deeper inſpe<g ref="char:EOLhyphen"/>ction into all mens Trades, and thereby a very great advantage to themſelves, both in buying and ſelling, above any other; the Trader being forced to diſcover the quality of his goods, the places where, and perſons to whom he ſells; and of whom and at what prizes he buyes, whereby the whole manner of their trades have been diſcovered and taken up, by the Officers of the Exciſe, and others, who before that time traded not at all; thoſe who did, yet not in ſeverall of thoſe commodities they now trade in; to the very great prejudice of very many eminent Tradeſmen, that bear a very great ſhare in the publick charge.</p>
+               <p n="4">4. Both Merchants and Tradeſmen ſhall be free from that daily charge and trouble, they are now at, in the ſending for tickets, and Officers to the Exciſe Office.</p>
+               <p>
+                  <hi>Object.</hi> And whereas ſome have objected, that if the Exciſe ſhould be ſecured at the Cuſtome-houſe, it will much exhauſt the ſtock of the Merchant; and that the Merchant will be in hazard, to make bad debts of the Exciſe, as well as of the principall.</p>
+               <p>
+                  <hi>Anſw.</hi> It is anſwered, the Merchant ſelleth generally for ready money, there<g ref="char:EOLhyphen"/>fore the Exciſe will be paid unto him before it be due to be paid to the State, and ſo the Merchant is freed from that hazard he pretendeth, when he ſhall receive the Exciſe upon the ſale of his goods; and the Inland trader giveth great credit, and uſually ſelleth at long time; So that it is the Inland trader, that bears the burthen of the Exciſe, and his ſtock is thereby exhauſted, and not the ſtock of the Merchant.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Reaſons further humbly offered, ſhewing that the inhaunſing of the Impoſition of Exciſe or new Impoſt for goods Imported, will be found (as is conceived) a diſadvantage to the</hi> State.</head>
+               <p n="1">1. THe generall experience of all times witneſſe, that the higher the Impo<g ref="char:EOLhyphen"/>ſition is, the leſſe is the receipt. For inſtance in Gold and Silver wyer. In Tobaccoes of all ſorts, at the firſt ſetling of the Exciſe, in the years 1641. 1642. and 1643. The ſame inſtances are to be given in <hi>Ireland, Scotland,</hi> and <hi>Holland,</hi> and upon Plate and other goods in the <hi>Spanniſh</hi> Dominions.</p>
+               <p n="2">2. The higher the Impoſition the l<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe is the conſumtion; for it's the cheap<g ref="char:EOLhyphen"/>neſſe of things that makes the expence; and proportionable to the vend of com<g ref="char:EOLhyphen"/>modities, is the increaſe 2r decreaſe of trade; and it's much better for the <hi>State</hi> to receive 100000. pound <hi>per annum</hi> upon an account of Trade, to the value of 2. Millions then of one, for the greater expence the greater your Trade, the greater your Trade the more your Shipping the more your Shipping the more imployment for your people, and the greater your riches and ſtrength.</p>
+               <p n="3">3. The greater Impoſition, the more wayes and deviſes are uſed, and mens wits heigthened and improved, every way to gain their goods without paying any Im<g ref="char:EOLhyphen"/>poſition at all: neither is there a greater adventure run, conſidering the profit, then is uſuall in all Trade.</p>
+               <p n="4">4. When great Impoſitions are laid, great Bribes may be given, even ſuch as will countervaile the loſſe of places.</p>
+               <p n="5">5. Impoſitions inhaunſing the priſe of commodities, makes all Traders unwil<g ref="char:EOLhyphen"/>ling, and moſt unable to have any ſtore or ſtock of Commodities by them, but they will onely buy for neceſſity, or their preſent occaſions; whereas otherwiſe there would be a continuall ſtock of Commodities throughout the Commonwealth, and a conſtant and continuall Trade and commerce throughout the whole land.</p>
+               <p n="6">6. Anſwerable to the Impoſitions upon, and obſtructions in Trade is the de<g ref="char:EOLhyphen"/>cay thereof; and the decay of Trade in a Common-wealth is the decay of it's chief ſupport.</p>
+               <p n="7">7. Anſwerable to the Improvement of Trade in any place, is the improvement of Land; the decay of Trade produces a neceſſary fall of Land.</p>
+               <p n="8">8. The rayſing of neceſſary charges, for ſupport of the <hi>State,</hi> by way of ex<g ref="char:EOLhyphen"/>ciſe, will not be found ſo equall, nor ſo eaſie and inſenſable as is ſuppoſed; For the very account of that Impoſition occaſions the expence of many 1000. <hi>per an<g ref="char:EOLhyphen"/>num,</hi> for defraying the charge thereof, beſides the many pounds, ſhllings, pence, exſpended upon thoſe in that ſervice, by all who have to do with them; and it's inſenſable onely to him, (and that but for a time) who accounts his expences onely by the groſſe; and it's not much better to looſe a mans purſe being blind<g ref="char:EOLhyphen"/>fold, then having his eyes open; neither can it be ſuppoſed, but that every man tavable in the Common-wealth, had better pay 5. pounds <hi>per</hi> quarter, then two ſhillings <hi>per diem.</hi>
+               </p>
+               <p n="9">9. Not ſo equall, for many poor people, having neceſſarily greater families then the rich, nay there are more great families of the poor then the rich; ſo that upon this account, the poor muſt pay more then the rich.</p>
+               <p n="10">10. Not ſo equall, becauſe no man hereby payes according to his eſtate, but moſt according to their neceſſitie; others according to their living and deport<g ref="char:EOLhyphen"/>ments, the Nigardly and Covetous little or nothing, the Liberall free and wiſely generous a proportion accordingly.</p>
+               <p n="11">11. Thoſe numerous company of Officers imployed about that receipt, like droans living of the Common-wealth, would live and imploy themſelves to and for the good and profit of it.</p>
+               <p n="12">12. It's conceived to be more then probable, that by eaſie, and light Impoſitions upon, and Freedome in trade, this Commonwealth would thereby become the greateſt Magazine, for trade, of any place in this part of the World. Eaſie Impo<g ref="char:EOLhyphen"/>ſitions inviting Merchants to Import themſelves and goods, whereby a place be<g ref="char:EOLhyphen"/>comes a market for all ſorts of commodities, and ſo begets a trade of exportation again, beſides an inland doing off what's imported; whereas, great impoſitions diſcourage all Merchants from importing goods to that place; becauſe, they can<g ref="char:EOLhyphen"/>not expect ſale for any conſiderable quantity of goods, in reſpect of thoſe under<g ref="char:EOLhyphen"/>hand importations, conſtantly attending ſuch impoſitions.</p>
+               <p>By all which it doth appear, (as is conceived) that a moderate impoſition upon goods imported, and receiving the ſame at the Cuſtome houſe, with conve<g ref="char:EOLhyphen"/>nient time and allowance to the Merchant, will prove not onely very dvanta<g ref="char:EOLhyphen"/>gious to this State, in ſaving ſo vaſt a yearly charge, aſcertaining and increaſing that Revenue, as alſo great eaſe and content both to Merchant and Tradeſmen, but very much tend to the advance and increaſe of Trade.</p>
+               <p>
+                  <hi>Which nevertheleſſe they (as in duty bound) wholly ſubmit to your great wiſdomes and care, to do therein as you ſhall find moſt conducing to the good and welfare of this Commonwealth, Theſe being humbly preſented, not in the leaſt, from any unwillingneſſe to bear aſhare of ſuch Impoſitions, as the <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ities of this S<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ate ſhall require for ſupport thereof, but onely from thoſe due and hearty reſpects they bear unto the honour and esteem of this High Court, and thoſe earneſt deſires they have of the flouriſhing eſtate of this Republick.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
